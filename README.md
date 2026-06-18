@@ -1,6 +1,6 @@
-# API Clinica Veterinaria
+# API Clínica Veterinária
 
-API REST em FastAPI para gestao de uma clinica veterinaria. O dominio escolhido tem regras de agenda, atendimento, prontuario, vacinacao e historico de estado.
+API REST em FastAPI para gestão de uma clínica veterinária. O domínio escolhido tem regras de agenda, atendimento, prontuário, vacinação e histórico de estado.
 
 ## Como rodar
 
